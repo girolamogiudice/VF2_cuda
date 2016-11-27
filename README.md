@@ -10,14 +10,13 @@ Vf_cuda requeires in input a graph and a directory containing the queries. The f
 
 GRAPH FILE FORMAT
 -----------------
-  
    #G1                     ->graph ID
    3                       ->number of vertices
-   A                       ->label of each vertex
-   B
-   B
+   1                       ->label of each vertex
+   2
+   3
    3                       ->number of edges
    0 1 	                   ->end points of each edge
-   0 2 
-   1 2 
+   0 2
+   1 2
 
