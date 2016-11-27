@@ -10,7 +10,7 @@ Vf_cuda requeires in input a graph and a directory containing the queries. The f
 
 GRAPH FILE FORMAT
 -----------------
-\#G1                     ->graph ID
+G1                     ->graph ID
 3                       ->number of vertices
 1
 2
