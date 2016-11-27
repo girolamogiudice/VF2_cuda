@@ -8,14 +8,14 @@ In principle a forrest of graphs is obtained. The forrest is then the input of t
 Unfortuately, I do not have time to work anymore on the code, hence, feel free to take the code and improve the algorithm.
 Vf_cuda requeires in input a graph and a directory containing the queries. The format of the graph is the following:
 
-GRAPH FILE FORMAT
------------------
-G1                     ->graph ID
-3                       ->number of vertices
-1
-2
-3
-3                       ->number of edges
-0 1 	                  ->end points of each edge
-0 2 
-1 2
+GRAPH FILE FORMAT<br />
+-----------------<br />
+G1                     ->graph ID<br />
+3                       ->number of vertices<br />
+1<br />
+2<br />
+3<br />
+3                       ->number of edges<br />
+0 1 	                  ->end points of each edge<br />
+0 2 <br />
+1 2<br />
